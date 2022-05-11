@@ -1,4 +1,3 @@
-
 [
     {
       "name": "Aces of the Luftwaffe",
@@ -50,13 +49,6 @@
       "url": "https://play.google.com/store/apps/details?id=net.hieroglyphe.arthur"
     },
     {
-      "name": "Bermuda Dash",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/RmxK9CzSRnWyIB2r-bI-2Uifntu1V8wHekfxfQTFy-tJoYU6ATNzlnwTKhDILqvGNyAt=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.ci.bermudadash"
-    },
-    {
       "name": "Bomb Hunters",
       "genre": "Arcade",
       "paid": "f",
@@ -69,13 +61,6 @@
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/q3o8vO0_ep4js2GlSNYGcLMEEIcP413CIBNx4gSIkC6eCLFXgVF_RE8kRBdBxlEaBoJo=s360",
       "url": "https://play.google.com/store/apps/details?id=com.fantasticostudio.blackparadox"
-    },
-    {
-      "name": "Brick Breaker",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/0ZDc_jWYBohO2pZ3Av81JcADTF6krmkdRnaJlWcAwOmEC9z8NJBlEspKF6wvD5963Zo=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.abyxentertainment.BricksBreakerPro"
     },
     {
       "name": "Atomic Super Lander",
@@ -1637,15 +1622,166 @@
     },
 	
 	
+	
+	
 									  {
-      "name": "Archery Master",
+      "name": "Grand Mountain Adventure",
       "genre": "Sports",
       "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/z5bQsrP0vYpb2aMb5oIHGPNreMpcVTZ8tyN1C-oo4_S9GXoXKH0CE4bQh1iKNwtsds04=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.junerking.archery"
+      "image": "https://play-lh.googleusercontent.com/_e-TaKx1lC_WjwgCwWXNV7t1I_MbARxOttLR4J44ownemkLLKZdZe13gVwbIfAfgl1iH=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.toppluva.grandmountain"
     },
 	
 	
+									  {
+      "name": "Iron Tanks",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/oM6hlRHJp0OrGYnbV5-P5a7sJlzotQLhPgivOi4sH-8R7dkfti3o8G024aCbYKXQi-Y=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.irontanks"
+    },
+	
+	
+									  {
+      "name": "NBA JAM",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/NhrJkcZM0oiY_TcMCggIjnJRkJOzb418H-JPyXQ6aNZb2Eva9ScIOxToZEn-9gKn3Q=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.eamobile.nbajam_row_wf"
+    },
+	
+	
+									  {
+      "name": "Snowboard Party",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/VaFIKjCodQIscpqIlekgjPhJ3ZHsUhxDa8GJFNEyYJv7AGsNcgvGbIpHxzh6bHjMCMc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ratrodstudio.snowparty"
+    },
+	
+	
+									  {
+      "name": "Snowboard Party World Tour",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/CCxH_rtlpx3XXG4AAMwJwkMoB627h80jln-fC3JyRvy0dV2-g2Vk-30YczT0xQnY270=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ratrodstudio.snowparty2"
+    },
+	
+	
+									  {
+      "name": "Skateboard Party 3",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/HZmv2ai3TJwWjEVNSaotL_cuYw-aeXSYaG6AhCELxZOGdCTPSfHA0N6X9g8dvOH0MmA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ratrodstudio.skateparty3"
+    },
+	
+	
+									  {
+      "name": "Sport Racing",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/l4ArQGAfwmpqBwwnxvpYT430Ke74-hjaGLQshUyxxeOu1m1SwQo9HJAKc8hXotj3rnph=s360",
+      "url": "https://play.google.com/store/apps/details?id=studio.zboson.sportracing"
+    },
+	
+										  {
+      "name": "Striker Soccer Euro",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/ZlC_lLFSwKdkknL7_O9LrStViKWfTvr1Ts6f0aUyZpd4m3bYHOfDtSatQZN7Rmv_p4o=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.uplayonline.strikersoccereuro"
+    },
+	
+										  {
+      "name": "Stickman Basketball",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/_1Hj2eKP1Ogogj2yk-N8IV01h3lnDYApjifzWnzSJWvyEKliuP3j3bgV3siDrpMymHHj=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.djinnworks.sb17"
+    },
+	
+	
+										  {
+      "name": "Stickman Soccer 2016",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/-ESAVwGUfgiV3MCuFxqnBPBLBQKc1EODIZeGXDYPOEaSmGwBHbHxDjMpiPCsGqI0ag=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.djinnworks.ss16"
+    },
+	
+										  {
+      "name": "Stickman Soccer 2018",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/CFbo4xTvpzParqoR8BYZiLjVc4dFIfjKHj_Hapw7EU_ZOvZD8F3JvCI2ho8328_sxss=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.djinnworks.ss18"
+    },
+	
+										  {
+      "name": "Superheroes Fighting",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/9SGRo9PpEmntr1_8tBdiTRAmbBMFsMEKCIvbEP_hCazVCyvQXJg3684Fxf7bmjoIKi9M=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.altivasoft.superherofighter"
+    },
+	
+										  {
+      "name": "Super Soccer Champs",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ki6QBvwJMF0n8RrzdfyuGpXN895uxp7lT79HRbfT-MxRVSGs-ZaqUkHJrTPvnJSSd8k=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.jakyl.sscfree"
+    },
+	
+										  {
+      "name": "Tennis Champs Returns",
+      "genre": "Sports",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/eI8hZCcwwZxB8eZKhhyA2ZU32k4P9009Sm1tfrAZYOVyVv_HHq7PYMyGFgvIlX2GienQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.jakyl.tcr"
+    },
+	
+										  {
+      "name": "Turbo League",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/13Tm06YhvQ5_1CSVW94ia4kVjbPuumIdJ3XRqyald5UgtUEQzV2fDXEVbsKqQG6rWRE=s360",
+      "url": "https://play-lh.googleusercontent.com/eI8hZCcwwZxB8eZKhhyA2ZU32k4P9009Sm1tfrAZYOVyVv_HHq7PYMyGFgvIlX2GienQ=s360"
+    },
+	
+										  {
+      "name": "Virtua Tennis Challenge",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/QlFnxKk8mP1fkyzGa1PYzcoCm0AcBwibB7b6vFBR4jsmTldHF0k6TlOd5dgPOCsoJg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.vtc"
+    },
+	
+										  {
+      "name": "Weekend Warriors MMA",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ebVDB_q59qF5IHh2n96bfFC4TQ-iOvvr1pC_BOly6lIW92Ew13WBQa3juqjVOvO5bIAh=s360",
+      "url": "https://play.google.com/store/apps/details?id=air.WeekendWarriors"
+    },
+	
+										  {
+      "name": "Basket and Ball",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/SJl--W6wNSq3l4ruek5Rem3jnViOg2vMnguywhMDRxpxJm2El4gD4LFlPHv9aJhBTH0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.suntemple.basketandball"
+    },
+	
+										  {
+      "name": "Parkour GO",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/NS74IRT8HboXQ1eeVYHoTe3wqSeeA2oUfPfYLYWSBertUfRp4Pde1jQOm7qN3tkyMok=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Rassco.ParkourGo"
+    },
 	
 
     {
@@ -1663,4 +1799,3 @@
       "url": "https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
     }
   ]
-
