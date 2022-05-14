@@ -475,13 +475,7 @@
       "image": "https://play-lh.googleusercontent.com/1Y0u8kVpb1j215FjE6FdONTRYcaQQbBmit3J7Hc0pnewuuU5rVHYMuqswy40oy7ZgmA=s360",
       "url": "https://play.google.com/store/apps/details?id=com.maddog.shaqfu"
     },
-    {
-      "name": "Robot Run Madness",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/0WzsrlSg-eEpp7d89v_nOQfwICSb3ZtgEAh3j7Ns4IatLBaOPCXta21H1w0KsGfn65g=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.freesquaregames.runnergame"
-    },
+
     {
       "name": "Scrambler",
       "genre": "Arcade",
@@ -835,13 +829,6 @@
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/1gKIiqV74l3iGHy0JQVYr9u1vKjbM1epPOUSelYxcwpFdsvcMQWIlWlYTZJmS1eK29U=s360",
       "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.blocky_roads"
-    },
-		  {
-      "name": "caRRage",
-      "genre": "Action & Racing",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/BJOxAyhtjLN1ldI9p2NtyyWL1IOs9lvu67_C9m7ue6HW31fMKJEszUKps4TpkEwFhQ=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.novagames.alphacarrage"
     },
 		  {
       "name": "Cosmic Challenge",
@@ -1748,7 +1735,7 @@
       "genre": "Racing",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/13Tm06YhvQ5_1CSVW94ia4kVjbPuumIdJ3XRqyald5UgtUEQzV2fDXEVbsKqQG6rWRE=s360",
-      "url": "https://play-lh.googleusercontent.com/eI8hZCcwwZxB8eZKhhyA2ZU32k4P9009Sm1tfrAZYOVyVv_HHq7PYMyGFgvIlX2GienQ=s360"
+      "url": "https://play.google.com/store/apps/details?id=com.zerofour.turboleague"
     },
 	
 										  {
@@ -2212,6 +2199,223 @@
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/Xr7OSIwI2ZDht6y7N9b3z-NjGM1YezjFWLknX0FlaKM0PULLLH0BX5OpzuDNYEBvKRE=s360",
       "url": "https://play.google.com/store/apps/details?id=com.ravenscourt.kona"
+    },
+	
+												  {
+      "name": "Star Wars™: KOTOR",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/UmXbYzd2dAYxGojxlKE4zBzGSrTSHfBJs89ycMHqU2CMol64hCK0H6jDovHjcOnsdFg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.aspyr.swkotor"
+    },
+
+
+												  {
+      "name": "JackQuest",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/7Y8OKMv5Z_DdioBg8V4RoAtvtreTKOXK17G_AXKJ-kPfFq_63NhTFAezNbHnYO9y72le=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=ninja.netox.jackquest"
+    },
+	
+													  {
+      "name": "Infected",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/-1vQxCwnmBtBZYyDWtaTdUcbPH9An4bF8jmo0wBn7D21ppWtVNiyIkQn7jLDodQpM2nK=s360",
+      "url": "https://play.google.com/store/apps/details?id=id.application.infected"
+    },
+	
+													  {
+      "name": "Ittle Dew",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/JYaB3JDx3AXE31I6gLx5L-hcZM0QhrSRc7h2mgTBgaMwTGCphCQEUdDqX67-igflvTmF=s360",
+      "url": "https://play-lh.googleusercontent.com/-1vQxCwnmBtBZYyDWtaTdUcbPH9An4bF8jmo0wBn7D21ppWtVNiyIkQn7jLDodQpM2nK=s360"
+    },
+	
+													  {
+      "name": "Labyrinth of the Witch",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/G2sk6tBf7LXdlALgSgw2KWlMrxfWSDv33DU66Nl7t9b2klo2CX8lktYOzvW3I1u0LVl1=s360",
+      "url": "https://play.google.com/store/apps/details?id=jp.orangecube.dotrikepaid"
+    },
+	
+													  {
+      "name": "Legend of the Skyfish",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/3tT1-RooolEXL-047rXCWk6WKh_XngX8Y0oi9WuLa098ByqRmKX27dTkVbGGZwCqga0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.skyfish"
+    },
+	
+													  {
+      "name": "LEGO ® Batman: Beyond Gotham",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/FRqHTER87jmNcUFLe7mDElVAo5-NsyVN1LbTDESYnNocWkaerVvR8HWJTFhcW-Qhyhc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.lbbg"
+    },
+	
+													  {
+      "name": "LEGO® Jurassic World™",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/4-sfrry21gCySENZbZmGojrS66zqjMn0mztjQ6Mg5bMS3TV3oQ81B5szcIljQx1DHA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.legojurassicworld"
+    },
+	
+													  {
+      "name": "LEGO® Ninjago: Shadow of Ronin",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/-rKueOfwjTTHF3nwBB7PZmHdFlmJJo0Scvtl3NhIgPzSVufPnAiENPCkdzSRYsCEQOk=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.lnjgo"
+    },
+	
+													  {
+      "name": "LEGO® Star Wars™: TFA",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/y-HZGkJzGgIZfJtwJJE-gGzqI-vtKmRk_1iaPJhr2Lgpw11Lb-e8IUDZPK6IzZpK5KI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.legoswtfa"
+    },
+	
+													  {
+      "name": "Life is Strange",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/LjAIOxqd8CZ9-kw0XWjrZJyfEoA6TrAJnsDtnBCMGhz_QrVUNkOpnLaBv3cHjDyJuWc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.squareenix.lis"
+    },
+	
+													  {
+      "name": "Lineage 2: Revolution",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/GS3jjBbFlcJVhKajHBaE8LAFV85e2LGx17qTIil-ZIs6fhX4YCGtYNdQN_NSPED_8hxI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.lin2ws"
+    },
+	
+													  {
+      "name": "MARVEL Future Fight",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/iXKLVvSsdVMG3Hl4QFmtd4bktweeMcRr3b9rRQ5qGYcLrNqXlCFytQ0PyDhAj5frbQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.mherosgb"
+    },
+	
+													  {
+      "name": "Mineblast!!",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/3K1U93lTcSjtwLRFS7N12jTnuxOdPZY4FAB6UzDeECFOfUTQBgWk2hiZyqP3vud_8PIL=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.neutronized.mineblast"
+    },
+	
+													  {
+      "name": "Minecraft",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    },
+	
+													  {
+      "name": "Mines of Mars",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/eaZathANdFVMDG40ZR3bl7OcvYKYgAm6DlKSBqRDEr_P-Nqbax8751JV_9IMEiCTv_k=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wickeyware.minesofmars"
+    },
+	
+													  {
+      "name": "Mortal Crusade",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/E9b_t4B59IDr9c7_QXUdVIvASvz28mYsNKGLe1JIluWspb0KtMJSPrXNz0DXRn8lPw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.MortalCrusade.SwordOfKnight"
+    },
+	
+													  {
+      "name": "Nimian Legends : BrightRidge",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/NtGND79VwRyOpeTmTcuQjWZ3L6BgXocBKJbG-gIdHQzjiNjnAQvn-jwsxg3-5AuMz5E=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.protopop.brightridge"
+    },
+	
+													  {
+      "name": "Nimian Legends : Vandgels",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/KROV0oOODBPBp6QQMoybk93dNOv12w-bfN4eU0LscYVgCqTCDlXfURQlCLgdjJNzgLQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.protopop.vandgels"
+    },
+	
+													  {
+      "name": "Oceanhorn ™",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/n84WLXlg7rb5QOcEERTTCEIPbBA-0oGGXbtdrdIq1goHr8URKf9CjfcL2AXLsFHIb7g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.Oceanhorn.gp"
+    },
+	
+													  {
+      "name": "Octodad: Dadliest Catch",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/hKzbT8Q4H0MMLrYXe1Bcj3P61G_1SUJEYp40Rmc_pGDd8wkZc92iWu24coy603OTU0c=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.younghorses.octodad"
+    },
+	
+													  {
+      "name": "Order & Chaos 2",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/GcVvOhdvxtDtmMa95FXQ42MrDHgcsMoyXjH4QBiP8L2ywa27sluVwfrGJPk4PE1GHI4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftO2HM"
+    },
+	
+													  {
+      "name": "Phantoms: Tang Dynasty",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/JbfYoGHx0CitdfMhgV6dLQ9RSgrPr4EEBrcXmAJitZaB0BLp94z2iAu46ON_c_gMP9Y=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.yoozoogames.ptd"
+    },
+	
+													  {
+      "name": "Portal Knights",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/fjz1YeWYK3EoHqGwvF1ZsPje5McFhd8HZl8mqAjDIxeW9dFQfJzSQmv93xWDkKO16w=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.and.games505.portal_knights"
+    },
+	
+													  {
+      "name": "Powerlust",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/FbJL6NvpnGZDYc5hChRgARooFQPxwD4nCI3nY_d5NPIH6XTeAltA2KAnD8C1dRTOpGc=s360",
+      "url": "https://play.google.com/store/apps/details?id=bartmamzer.powerlust.actionrpg.roguelike"
+    },
+	
+													  {
+      "name": "Ravensword: Shadowlands",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/U-Ny0iOj04N7DmPrv58BjclQ4mQEl-qPvTEE-xSWhH_CU5pQhLPYknxNFCwIaeSQlSg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.ravensword2"
+    },
+	
+													  {
+      "name": "Rayman Adventures",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/tnHtPM_xOZlmmENJd_2YvE9VCZ8YxJ7EdCVFze9shvOYir4u-ALdIVrYMfnreybGf70=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.raymanadventures"
     },
 	
 
