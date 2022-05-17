@@ -504,13 +504,7 @@
       "image": "https://play-lh.googleusercontent.com/Q-fDME6YEHZ8xnjPe5cLq0hmfp7XnO9opg3vL9kN3mdMyRw66f7YXKcf7_Tze-JQd6k=s360",
       "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie3"
     },
-    {
-      "name": "Tanks!",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/3Iai1CIvxNgv4Ja7aY-G0h3y1JyGefH28vIsFVVHOGokMszSJ8HzZCkx-W90MW3IkTo=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.apedroid.tanks"
-    },
+
     {
       "name": "Wind-up Knight 2",
       "genre": "Action",
@@ -649,7 +643,7 @@
       "genre": "Adventure & Adventure",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/QRTFeIR6-e2ohLxONmVgAP6JGkYHqz8kN2CbBBK1kzJH6BkMagLUs0BCW9I8lfNGusL9=s360",
-      "url": "play.google.com/store/apps/details?id=com.GoldenTricycle.Clarc"
+      "url": "https://play.google.com/store/apps/details?id=com.GoldenTricycle.Clarc"
     },
     {
       "name": "Death Squared",
@@ -2231,7 +2225,7 @@
       "genre": "Adventure",
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/JYaB3JDx3AXE31I6gLx5L-hcZM0QhrSRc7h2mgTBgaMwTGCphCQEUdDqX67-igflvTmF=s360",
-      "url": "https://play-lh.googleusercontent.com/-1vQxCwnmBtBZYyDWtaTdUcbPH9An4bF8jmo0wBn7D21ppWtVNiyIkQn7jLDodQpM2nK=s360"
+      "url": "https://play.google.com/store/apps/details?id=com.ludosity.ittledew"
     },
 	
 													  {
@@ -2418,6 +2412,214 @@
       "url": "https://play.google.com/store/apps/details?id=com.ubisoft.raymanadventures"
     },
 	
+													  {
+      "name": "realMyst",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/Qcaiqyv4lua-jNwlr_GtiPc4m8PBcDW0qtP7yLHukyiDXI-tKNohcnBC8MQk7PvqfMg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.realmyst"
+    },
+	
+	
+														  {
+      "name": "Restless Dungeon",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/mQddC4zSEkghM6ehUSTgd9Wi1NW9A34gHrGL0EcVmlSg_EvoE5g9NFZRU_vb9hbp4xw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.MoustacheBanana.RestlessDungeon"
+    },
+	
+	
+														  {
+      "name": "Reventure",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/qLmz_J3HpBOU5bSVGew2bh_JjhNAhSBwHrz5QE73gKa3jGQFpqIneSBp_MD6G40TOA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Pixelatto.Reventure"
+    },
+	
+	
+														  {
+      "name": "Rima: The Story Begins",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/P9chdBMj9V6G5Hr4xJIA8upCsO5hNeFjpD3hwIsdshgu4uF--Mkf4lzkwXZgU9Z4PQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.UPEntertainment.RimaTSB"
+    },
+	
+	
+														  {
+      "name": "Rip ‘Em A New One",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/eqsilsararE9xJIVWNUYXJ1LWtEDdATfD_IMyLKpb6bEmmsV83Bybx1aCenEKZD8bDE=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.anarchyent.kacf2p"
+    },
+	
+	
+														  {
+      "name": "Riven: The Sequel to Myst",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/ruq2QhpzeiUMJwc6MvPlN83_qz0tfYegeW4ir_kXMLJ3RCKpYbt1TU_-gFkC27nuByTj=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.riven&rdid=com.noodlecake.riven"
+    },
+	
+	
+														  {
+      "name": "Asdivine Menace",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/2eWqLShcccVFI7feBhzPYWoUc6jxPOBX6zD3RtnyB0PX5j60L2ynHOuv0eYd4NBWFB4=s360",
+      "url": "https://play.google.com/store/apps/details?id=kemco.execreate.asdivinemenace"
+    },
+	
+	
+														  {
+      "name": "Runic Rampage",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/Dypw7Lomme-Y5P4rhZ1dQ4P7bTRHFMqqbg-IuLSqB1J9iRF67bbtmH7QjJ84RRDbYYN4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.runicrampage"
+    },
+	
+	
+														  {
+      "name": "Sinister Edge",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/lxufVV-4Vc8Ks4nvtrBn64C8InZjes8eAnvNFTBLvFyhY1yivmqwsty73OQZN1BTfZg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.everbytestudio.sinisteredge"
+    },
+	
+	
+														  {
+      "name": "Sky: Children of the Light",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/fjyFbG7_wqkvzD1fZ3ndKJJrI00OUWTPwY-0rHCgeecZn4SL16jJTBmeY59Wv06IKSM-=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.tgc.sky.android"
+    },
+	
+	
+														  {
+      "name": "SoulCraft",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/jeqUqTmQ8EpTjJRe1_hYp8Tp-rKgjzRn1hzqcmjKRPoZ2CHwwJFmywlJ9Bv1nqpje3o=s360",
+      "url": "https://play.google.com/store/apps/details?id=de.mobilebits.soulcraftdefault"
+    },
+	
+	
+														  {
+      "name": "SoulCraft 2",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/WC-i7dRBQhlutVoVWmCvXKFuaTJcQJR4u7pIojQH8Na-1CLuPjPUYdIjqPEyqVDgdaF3=s360",
+      "url": "https://play.google.com/store/apps/details?id=de.mobilebits.soulcraft2"
+    },
+	
+	
+	
+														  {
+      "name": "Space Grunts 2",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/Ug5Kvr346P2DPP49ePEmBN7umqIvLKY42lZeCMpZKbiyGFvfrrvpqssOwq5Sko3dnrUi=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.spacegrunts2"
+    },
+	
+	
+														  {
+      "name": "Stardew Valley",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley"
+    },
+	
+	
+														  {
+      "name": "Summer Catchers",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/mk3siXtQc3Z6Cq7dtbG4F3RWnVCwCRZ92gtEaJJn4KyP8QShUFgleEowxshg2iSJg09x=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.summercatchers"
+    },
+	
+	
+														  {
+      "name": "Super Bear Adventure",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer"
+    },
+	
+														  {
+      "name": "Survivalcraft 2",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/qHOeTdOzb4hvtT0DbSyZauFAr8BhgCY1QyMP6loiJEkZzkHxwi7ZqdWZbdS-__qsOA4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2"
+    },
+	
+														  {
+      "name": "TEGRA－Post Apocalypse Survival",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/0nM9rZsJOMBU_UAbQmxL2KScsKIJXcbXiSnFjn2IDqDFeW21i04iEc_p3opmMTHOLUc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.avegagames.magic.craft.survival"
+    },
+	
+														  {
+      "name": "Terraria",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid"
+    },
+	
+														  {
+      "name": "Teslagrad",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/hWusbkUxJ029dgMMD5rmbFgiTzVIdOwaIWSXXkgmFh7SaFGhkMv8eFSn0NWEOmwNdw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Rain.Teslagrad"
+    },
+	
+														  {
+      "name": "The Dark Book",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/YSuhr8VZFwhrUFD4sLIQ4UDUx3TzFeTRiwmHGfX4M0h2_Bt-gQd9a4DIHUUEqUjRpts=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.underbyte.rpgkit"
+    },
+	
+														  {
+      "name": "The Deer God",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/9inIHQl3dxlNXW6pyr9ly9MyosAoJnbNlmpC-h017sshF212mS-qKVmo1lArzrB6Tg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.deergod"
+    },
+	
+														  {
+      "name": "The Slayer",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/uFTuhtzhSmxgc-QJVHhoWQRGWrWvua95toba8PBaeuFgusQ2fp5gsUzBy4ElSABMCkk=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.zac.MobileRPGSample"
+    },
+	
+														  {
+      "name": "The Swords of Ditto",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/0mqa6npmfMxGqcQZRgy1JaLtE4XPcsOXyrPOJLfnl9Cei2B4Co4j-vJ_zYIup7qIx9o=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.devolver.Swordsofditto"
+    },
+
 
     {
       "name": "Growtopia",
