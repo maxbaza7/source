@@ -2619,8 +2619,393 @@
       "image": "https://play-lh.googleusercontent.com/0mqa6npmfMxGqcQZRgy1JaLtE4XPcsOXyrPOJLfnl9Cei2B4Co4j-vJ_zYIup7qIx9o=s360",
       "url": "https://play.google.com/store/apps/details?id=com.devolver.Swordsofditto"
     },
+	
+														  {
+      "name": "The Uncertain",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/3Ybl78_B4Ia9o5WrIxi-tfyAuCXO7Ba6Yjm6UHRCODXZf6oSjeBoG5vsWz0EsGIHqmU=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.comongames.tue1"
+    },
+	
+															  {
+      "name": "The Walking Dead: Season One",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Z4DBaIKoo88TwrBNzaUvsgJWs5f0CiIo8kOVIt-EAB9vajKeia3d6WTvdCp4ExTuLlQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.telltalegames.walkingdead100"
+    },
+	
+															  {
+      "name": "The Walking Dead: Michonne",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/aac4aYBjZR4riHGXxsiJwT9l1fUgtGI8mZ2hawnODlNZ-6ELqjkbPM3tpzP1aEDSiPg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.telltalegames.walkingdeadm100"
+    },
+	
+															  {
+      "name": "The Wolf Among Us",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/43SBnMbI8D2i1vMmbD_Fv7QKaAX_KbFuQm2PM2A9KtlB3Wr2wvjxDp5EiJ40alJ-Uw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.telltalegames.fables100"
+    },
+	
+															  {
+      "name": "The Bard's Tale",
+      "genre": "Role Playing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/BcnwjM6FSUCNzyhRAJx8R7quVR7M2MRHCqNf7G7ofCGiumpiT5q5v1sDJdSzQ190nA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.inxile.BardTale"
+    },
+	
+															  {
+      "name": "Thimbleweed Park",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/FnScLTZMifmuGwQJhMTqC_pmRNd-u1Kdh3xYE2I0T9nxEAgFhCKk2PKW1RgXDwVz-OI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.terribletoybox.thimbleweedparkandroid"
+    },
+	
+															  {
+      "name": "Totally Reliable Delivery",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/PdejlowUAuqKBRQw1NJbzBK-1-FL3r9f9HzEialmVkwMJ7c-8EftL5soRCeD4hapb30=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.werefivegames.trds"
+    },
+	
+															  {
+      "name": "Vendetta Online",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Yh8FyUrADnCi4-c4jLjdP1n9zVxvBfkDGjEPHofSEdZQyhfHVwi-rAjshp1475hzDwM=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta"
+    },
+	
+															  {
+      "name": "Wayward Souls",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/vewVUScjuvrXD8Ls_iapS3vu0gW9EpOz1LuI9iQJZlLdd_HvT3wfxBeOzwrD2D9iGkgK=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.waywardsouls"
+    },
+	
+															  {
+      "name": "WazHack",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/umcX-C7jGMQCwiSG9H9yHUpRZqD9USbIi3UgSHWx6LxgH1bC09hInsF8ty2yJdHCD2Ly=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wazhack.WazHack"
+    },
+	
+															  {
+      "name": "Wind-up Knight",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/EGHyA920vz4-wg8_Ec7mV5yY4zWKvL8uQVgbHtY3-drHxVHUdobM25ah_1Go_I3Qpv0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.robotinvader.knightmare"
+    },
+	
+															  {
+      "name": "Wind-up Knight 2",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/uGEfnbviFFgGjyZrmo5EJ8zzF6P7yVU-AVaYBLctMgNlTTrnGOyAhoCf4jWqyOqv5JJE=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.robotinvader.knightmare2"
+    },
+	
+															  {
+      "name": "Witcheye",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/jp66Yy4K3IlhI7rpW-6P1t7aQuaiuI2v9WBIdzr5NadBOv3Ap_VXBXXSXhF2Xy9pyjv8=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.devolver.witcheye"
+    },
+	
+															  {
+      "name": "Whipseey",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/WXNblnfYnCplAgWA3swDoPYOtDroBOr-F7HCQn4CiOosmaPvXd9Gryr8eRCU7NZWpg=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.cm.whipseey"
+    },
+	
+															  {
+      "name": "Whispering Willows",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/-fsMMo2T5AqvLVZawjuC0wEFwIMLT402VDkSuiwgoEWa3zF_xmbPdTOMTAf4SdIZ4u0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.nightlightinteractive.ww"
+    },
+	
+															  {
+      "name": "X Survive",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/c8i_CxtIWXNKoeevMl_QbnKEFXYX3JvuKQ8fgAFX4Hd9AzJmB64GINaxX35a7qYOOOY=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.freesquaregames.xsurvive"
+    },
+	
+															  {
+      "name": "ZENONIA® 4",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/fDZP2BiARv0D3LudhP2b_dO3VobPaq0p-RW3G45DghY5rQk7RLCThU5i4hjdM9LiZLF6=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gamevil.zenonia4.global"
+    },
+	
+															  {
+      "name": "Andor's Trail",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/2i4kn_gKngYjpTinZW9up2Tuh5zTgs1CgB3OHTz9rUIWN03POUhzJn4d_l7h_QM3Sk4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gpl.rpg.AndorsTrail"
+    },
+	
+															  {
+      "name": "Taichi Panda: Heroes",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/LtvAamLmwBmfSwwxv2uXe9e5QmreRRLLeNsiXohMIsQi8xi_WO2PAgyjfwwInzmJInoT=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.snailgameusa.pandatwo"
+    },
+	
+															  {
+      "name": "Heroes Adventure (Три Богатыря)",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/VnRt7bMVnFg36Qa1Svt1o3pME3V-CjcgBxsv8do62RwecauAWUZ_-vWl-J1pSbwO1jJ4=s360",
+      "url": "https://play.google.com/store/apps/details?id=ru.publishing1c.heroes"
+    },
+	
+															  {
+      "name": "The Mooseman",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/P3vD3POZ2G1-04a8LUJCKYb6EvK_AOqitecyN31bivBce73emI5ye82bL6T-wg6gmNc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.morteshka.mooseman"
+    },
+	
+															  {
+      "name": "Guney's adventure 2",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/gMZSp-QCXuxfBhX0CumkFYA30uGNU3lxD0NvU_lXnbAoUj--tnzG63vmv3fWilmdIicC=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.AlexeySuslin.GuneyAdventure2"
+    },
+	
+															  {
+      "name": "4x4 Safari: Online Evolution",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/qgldBtSLO2pI2QbpiDz-MG5R2taXg_4RCuiKJljfcbCgG9q90dQA-M-9cgZhHT3ncfM=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.jurassicapps.safari4x4"
+    },
+	
+															  {
+      "name": "Battle of Warplanes",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/BnvHnKTAcgutaYW2CNfkfi8qPH-tZMW33nrjffCFYfxkm41IE9aTViO_NarmyuXoHQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.battleofwarplanes"
+    },
+	
+															  {
+      "name": "Call of Infinite Air Warfare",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/MrA4-VlMH0hsUKcd639BdO8fCIPk-y74qmavHXennLmn6vuUP9IXmUqyEAUpUrPRYA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.bravetale.callofmodernairwar3d"
+    },
+	
+															  {
+      "name": "Euro Truck Evolution",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/vLR8cwtth6NTA_OE3baVL_FzDJfQb7mq_8cwqz4TPx44HM8LlRdKnq4hSHc2ipYxBzRB=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ovilex.eurotruckdriver"
+    },
+	
+															  {
+      "name": "Farming Simulator 18",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/fBrh0fhnDn4_ClaeY9JW3d18hhYq8KtZiKPCWhpdD1_LNcZ85siuWIoiW8hEaS8b7A=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.giantssoftware.fs18.google"
+    },
+	
+															  {
+      "name": "Farming Simulator 20",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/Y19nCRFKuYsk5G9uQHarjjh88U3ikKOdm4JmdQEPREnKhlKXwdfWFVF9E6cS729zAg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.giantssoftware.fs20.google"
+    },
+	
+															  {
+      "name": "Farming USA 2",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/d1aZ-6VHoRQbWfd1b6N1kydoQD2qotkDNJFkVf8auxuZdhySKD7YNY2RoADtL2gwiPE=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.bowengames.farmingusa2"
+    },
+	
+															  {
+      "name": "Hard Time",
+      "genre": "Simulation & Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/wSVvAfCMe9vdcDagmOvYHZFluxAePDa9ffb__a1TiblnVYDx17hsuEJcjFgF0KvDOfs=s360",
+      "url": "https://play.google.com/store/apps/details?id=air.HardTime"
+    },
+	
+															  {
+      "name": "Kingdom Two Crowns",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/gssGjf2TYZdhX0L31T1X-7EUhwNbQKAqMwszafw4hBCMaTNkZWq556ONTjolN7i5dVKa=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.rawfury.kingdom2crowns"
+    },
+	
+															  {
+      "name": "Last Day on Earth",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1NJaEmZal-WWfNTcpQkpO0Z0U4SbLMcit2K3DDW2_BQ7OJkyn1at4zDAgBGCfZLLubDd=s360",
+      "url": "https://play.google.com/store/apps/details?id=zombie.survival.craft.z"
+    },
+	
+															  {
+      "name": "Off The Road",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/8UvDF9hM3lN3qVqUtT1rBrlMKGwkRrFxL040ip4mLDhvL1M8q_9D_qkRLFG2oiu4_twn=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dogbytegames.offtheroad"
+    },
+	
+															  {
+      "name": "Prizefighters",
+      "genre": "Sports",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/qQ58xkWLHpf70FZ0wmMX9p9s0Eb4yfqpmjldX4LhzznAt1Ijhv0EUVjcEuzjMtZZYGc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.koalitygame.prizefighters"
+    },
+	
+															  {
+      "name": "Raven's Night",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/yRiRKI_pXIpXHWzyHKTah7c_qW4M2EKSc3a45tSghvTw-uKIXQ5XjSJ81FWkSKY24RQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.StupaX.RavensNight"
+    },
+	
+															  {
+      "name": "RiderSkills",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/LCbm0kTPQmFl18MKfgR2yvoVenONx4_-_R_BTz_tRlutGslpdBnzE_OQi5eV5OvCMT1v=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.zigagames.freeride.riderskills"
+    },
+	
+		
+															  {
+      "name": "Stellar Wanderer",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/H4fj2eDy4h31HnSiitG0EYF_RDw0DgQcr37lpj-wzlfvgcwR1_W4bVocN6Pj3T26Aw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.stellarwanderer.GGRoamActivity"
+    },
+	
+		
+															  {
+      "name": "Sky Gamblers: Storm Raiders 2",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/_i51ttglDAZuQS7zDmshKQezeBoM0FUvwtyqTAc4jTzg5Wg7xEMI8SDgROU9Zobc5RI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.atypicalgames.sgsr2"
+    },
+	
+		
+															  {
+      "name": "Space Jet: Galaxy Attack",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Ghsjz1393io5k1EMNNHvFNNBO09ykpnKAGQkca79k5lLy-R8KyJ4p8YpDHa6ps5DhKs=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.spacejet"
+    },
+	
+		
+															  {
+      "name": "The Escapists",
+      "genre": "Strategy",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/i7zftgaIVCnVhGTGDIG3YtFv-nURouUyeWvVIXWFzanxCKUVAEQciDE4vgbhQ5O-6A=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.team17.escapists"
+    },
+	
+		
+															  {
+      "name": "This War of Mine",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/aNd-dCRlTGqnf1C79FxUkw-cHap9SNnfGWfKw3lLO3pXxWVMTOVEDdyOH3E-RqPiyVw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.elevenbitstudios.twommobile"
+    },
+	
+		
+															  {
+      "name": "This War of Mine: Stories - Father's Promise",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/YSKXsTO9RAzsjR3CJjPDINxC0bNcyN-5qVOm7t6TpM3wQ_sT_A3atozNQBqQT5a2H8E=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.elevenbitstudios.twomstoriesmobile"
+    },
 
 
+															  {
+      "name": "Russian Car Driver ZIL 130",
+      "genre": "Simulation",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/BjYfwzOpXsMRmOflva9wI4kOUs4CGUpcmAX0coaKltWkGoEqH5ICnHZCh6DgJCYG9Q=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.AB.RCDZIL"
+    },
+	
+																  {
+      "name": "Anomaly 2",
+      "genre": "Strategy",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/gaiU1AsvAFvazj5cd8nZ72Z-2XUNkgrm1TtF2Rud4wIi5-jD31FYK9XhvGUEy035cIQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.elevenbitstudios.anomaly2game"
+    },
+	
+																  {
+      "name": "Arma Tactics",
+      "genre": "Strategy",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/RRpXBmCD2U4ohcnI1E-KxhTtoWFE_crMp2vFNYIUU1b8yrwxnHxXvPqQrOz2MHMhZbI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ideagames.at"
+    },
+	
+																  {
+      "name": "Auralux",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/CCV-orEYSrzWEQTkvcOSI31po7bhL5ALkniJLIRQdecUfv5cKXObKuZoE-NvglBvSt8=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.wardrumstudios.auralux"
+    },
+	
+																  {
+      "name": "Bad North",
+      "genre": "Strategy",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/GfUVsXlqk2g8pYXsOBbvem71ZW9oLGPpvwRC0EUZfdaWOTakVqLWHjL5CD6VBE9ChA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.PlausibleConcept.BadNorthFull"
+    },
+	
+	
+
+	
     {
       "name": "Growtopia",
       "genre": "Adventure",
