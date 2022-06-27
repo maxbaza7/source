@@ -10,7 +10,7 @@
       "name": "AirAttack 2",
       "genre": "Arcade",
       "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
+      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s96",
       "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
     },
     {
@@ -3268,13 +3268,7 @@
 	
 		
 	
-																  {
-      "name": "AirAttack 2",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
-    },
+																  
 	
 		
 	
@@ -3320,7 +3314,7 @@
 	
 																  {
       "name": "Annelids: Online battle",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/RVK-xlaK7geBP30oq5Zju2veXluXnV8eC7SQSjGnwZcPYbS4e-ublidxBV55QmweDEY=s96",
       "url": "https://play.google.com/store/apps/details?id=cz.gdmt.AnnelidsDemo"
@@ -3330,7 +3324,7 @@
 	
 																  {
       "name": "Apple Knight",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/oe8BIjTw2zcmqKMHcxajJy0Pv-5EmpYEG0aHRyvTI7yFRkVstQokNHkSFwYMZ8xYlQg=s96",
       "url": "https://play.google.com/store/apps/details?id=online.limitless.appleknight.free"
@@ -3418,7 +3412,7 @@
 	
 																  {
       "name": "Battle Tank",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/2xblcCcJtlwtk5OHdrvQtqH5u0EckVwfev7Kp2U0fQqCw3-IWY10oWYkUTSV-jdtNWpP=s96",
       "url": "https://play.google.com/store/apps/details?id=com.spcomes.wnbattletank"
@@ -3462,11 +3456,113 @@
 	
 																  {
       "name": "Block Fortress",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/Okr8sE4PGaC_jpUIA8P5xJwCP4q0j_stRHgwORjcnITiPCjkgAdf3jczPStOhB_z9ro=s96",
       "url": "https://play.google.com/store/apps/details?id=com.foursakenmedia.blockfortressempires"
     },
+	
+	
+	
+	
+																  {
+      "name": "Soul Calibur",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/e68OZIedsOvEJSrpUOhlSDeLbHB5EKJ0PVWF6xecOr9ph_D5qzG1VGZ-q6LgoQ9NLw=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.soulclbr"
+    },
+	
+	
+	
+																  {
+      "name": "Tekken 3",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/FM8bkVyX8jtxMw4EEUhNu64d_kyYs_kml2dbzqJW76H7c6M77gJiJZHhGgnYEoSA8fs=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.tekken3"
+    },
+	
+	
+																  {
+      "name": "Tekken Tag Tournament",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/8RIm3hdVpSQuAYEY1ftYgnJZ5BWEU7IaPU6_wfJvuwl2jwfw-IzUCOAUo3Q1eYGxYuk=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.tektagt"
+    },
+	
+	
+																  {
+      "name": "Pinball Action",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/YVFri8GQdm2Sr8OiVO7__jMXguX4munA6A7dYqS6c3AZB4MpljtpIqlTfz_wQwQFehE=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.teamteh.pbaction"
+    },
+	
+	
+																  {
+      "name": "Dig-dug",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Qsvrz5N8wKPeIQG00IVbCV9ht5xVSMTCdQczlAmTF4E-rxIu7uaXradS0zZ3lLb6BA5z=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.digdug"
+    },
+	
+	
+																  {
+      "name": "Paper Boy",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/AuwMo4A_8Y4tDcmbpiAaXkvq2LUA1uEBXkFATpVh-TO1FiypcLiKQnkl_ZH7KNgQ1Q=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.teamata.paperboy"
+    },
+	
+	
+																  {
+      "name": "Gauntlet II",
+      "genre": "Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/PhfyLWoOdCnvJyaMIoFMvPYhSa1Y9tB-dKDUcaHtCbHsz9AJfTU3hCDCGU9-hkQ5zMDn=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.teamata.gaunt2"
+    },
+	
+																	  {
+      "name": "Neo Rally-X",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/7a1d4mjD_dDm5mmf2hDNWCXN9xLmyeMtWFkgmqNjb_1rj7Waa6tvPg3ZQHzXBfKL1A=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.nrallyx"
+    },
+	
+																	  {
+      "name": "Xevious",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/uRWoT_8nA9nur427tiP1AXUQJGgDny4PgaQlbhb39StVW31OL9choKcXZZf4sYkkH4h2=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.xevios"
+    },
+	
+																	  {
+      "name": "Battle City",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Obpe2VDmfqbGtrlSo4kXKJlD9k0b9JtyxgTx1cPPM687vb1xt8YvXoTtaR9kgPycp40=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.namcomob.btlecity"
+    },
+	
+																	  {
+      "name": "TETЯIS",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/7q-hDuZe3KqEGM-SAB2dHTAMMmBLJgHixr-rfIJH21Mr90hCblvfdwCC3l0o8jJf7g=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.teamata.atetris"
+    },
+	
+
+	
+	
 	
     {
       "name": "Growtopia",
