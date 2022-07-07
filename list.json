@@ -35,13 +35,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.DoubleMoose.AnimalSuperSquad"
     },
     {
-      "name": "Arkagamepad",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/Av-UOo5j0GC1nhNmsPLP1KmgUHCufNBmctBd0fy76ISh-A3BUcEq4yCjscKTZwVlU58=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.RealPlayStudio.ArkaGamepad"
-    },
-    {
       "name": "Arthur & Aziliz",
       "genre": "Action & Adventure",
       "paid": "f",
@@ -3560,9 +3553,122 @@
       "url": "https://play.google.com/store/apps/details?id=com.teamata.atetris"
     },
 	
+																		  {
+      "name": "Battle Prime",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/UmrCjCbPbgxUIxkmfqHfqPQXG1I1rK4li69FwrFAnjZ9HBaXUXJfpr7Xg10mmqhDtmk=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.blitzteam.battleprime"
+    },
+	
+	
+	
+																		  {
+      "name": "Bendy and the Ink Machine",
+      "genre": "Action & Adventure & Casual",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/96eBM7bUrouYRKa_1k3d2inqHMNJp25BX4IeGbpHdhvOYjLjqFn4upD2wEwGPsOBh2oz=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.jds.batim"
+    },
+	
 
+
+
+																		  {
+      "name": "Bomb Chicken",
+      "genre": "Action & Casual",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/mpohojBGrFgBdiGyHh3OjGDi5fAs_-HI6KDVrNQ-QkQojpm_tBasKrAU04JapHk4Tw=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.nitrome.bombchicken"
+    },
+	
+
+
+
+																		  {
+      "name": "BombSquad",
+      "genre": "Action & Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/CachTgIoVy7oEtLlgeo8bPcJfaUHRopRYUOH-DYyeiRsQQaqg8gjpp1qGgOs3wiC2IQ=s96",
+      "url": "https://play.google.com/store/apps/details?id=net.froemling.bombsquad"
+    },
+	
+
+
+
+																		  {
+      "name": "Bomber Friends",
+      "genre": "Action & Adventure & Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Ld3UVdsryjuoK_FEhT0eroDFqno8pVLMxfeYdGEGDva88i3aJ5FlyPv71M5oVsM9Qkw=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends"
+    },
+	
+
+
+
+																		  {
+      "name": "Boris and the Dark Survival",
+      "genre": "Action & Adventure & Casual",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/NWYgEwkp7B3VYnWyOopQpTegquO6HR2Seaqfn4Ph5QBSQ70YQIKtONKTzwIbauTaBL0G=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.jds.batds"
+    },
+	
+
+
+
+																		  {
+      "name": "Brave Ronin - The Ultimate Samurai Warrior",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/_QcRcyXfWv85oXQ-EHw_YTPxLWZZc4UoyYJuxAVxxof0g0-jsxxcIYr2TXlnnPk4_w=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.payandaonline.braveronin"
+    },
+	
+
+
+
+																		  {
+      "name": "Brawlhalla",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/PZeSw1BuUf8swSbIxF3JNE0t-_4My6hbhdnCLucQZgYLrSe0IDaAMi4r83g6drKg2knm=s96",
+      "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp"
+    },
+	
+
+
+
+																		  {
+      "name": "Dark Prison",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/kOvM1raTvN7HtjeJflWo5i-8YTfzjqB6d76hSK1YhQmpKkh2sCWAUk4ltyYuh-Mi9U7p=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.latersoft.darkprison"
+    },
+	
+
+
+
+																		  {
+      "name": "Brothers in Arms™ 3",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/C6L1PagB8UvhV4A67gumcVWQGSVAq86-iZCSHAIelrNTBDV1iSeBQQymZm07PzEZxYI=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA3HM"
+    },
 	
 	
+	
+
+																		  {
+      "name": "Bully: Anniversary Edition",
+      "genre": "Action & Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/I3zJDMIIQ6k_iRCC8LsZJhAKbKC8I7f4Mp1lYdZ8Hxk3hvBS1GLsBsmiG80gk5T0c9Ww=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.bully"
+    },
 	
     {
       "name": "Growtopia",
